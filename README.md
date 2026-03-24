@@ -59,9 +59,7 @@
 
 ---
 
-## 📌 Projects
-- 🚀 Classroom Management System  
-- 💡 More projects coming soon...  
+
 
 ---
 
